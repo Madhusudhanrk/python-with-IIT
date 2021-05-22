@@ -1,5 +1,6 @@
 var = "Hi Madhusudhan Reddy"
-print(var[3:9])#prints 3 to 9 char in string arry
+
+print(var[3:9])#prints 3 to 9 char in string arry due to 0 start - one index of last element
 print(var[:9])#prints 0 to 9 char in string arry
 print(var[:])#prints entire char in string arry
 print(var[6:])#prints 6 to end char in string arry
