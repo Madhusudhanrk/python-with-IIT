@@ -17,3 +17,5 @@ print(list)
 #append will add value into last index of the list
 list.append("style")
 print(list)
+list.remove('style')
+print(list)
