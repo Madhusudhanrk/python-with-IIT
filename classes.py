@@ -1,6 +1,6 @@
 class person:
     def __init__(self,name,age,sex):#this is constructor default method of the class
-       self.Name = name
+       self.Name = name#this is python properties
        self.Age = age
        self.Sex = sex
     def person_bio(self):
